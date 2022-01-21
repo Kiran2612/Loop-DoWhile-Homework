@@ -24,5 +24,6 @@ public class DoWhile_EvenOdd {
         i += 2;
         }
         while (i <= a);
+
     }
 }
